@@ -1,0 +1,6 @@
+Hello, world!
+This is a test file.
+Sample text with grep.
+Another line with some text.
+HELLO again, world!
+
